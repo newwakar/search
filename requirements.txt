@@ -1,3 +1,4 @@
+pip==23.3.2
 langchain==0.0.284
 python-dotenv==1.0.0
 streamlit==1.22.0
